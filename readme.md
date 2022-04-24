@@ -1,5 +1,6 @@
 # Effects
 
-** CSS Card Snap 
+** CSS Card Snap effect
 ![Card](./ss_card.jpg)
+
 
